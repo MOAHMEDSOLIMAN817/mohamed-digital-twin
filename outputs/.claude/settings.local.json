@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "mcp__2384c20c-dbc7-4c60-9381-db7c04fd157e__search_projects",
-      "mcp__2384c20c-dbc7-4c60-9381-db7c04fd157e__publish_workflow"
-    ]
-  }
-}

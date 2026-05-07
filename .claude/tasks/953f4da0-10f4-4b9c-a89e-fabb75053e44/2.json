@@ -1,9 +1,0 @@
-{
-  "id": "2",
-  "subject": "صياغة System Prompt محدّث وأكثر تفصيلاً",
-  "description": "تحديث الـ system prompt ببيانات الـ CV الكاملة وإضافة أسلوب الكلام والشخصية بناءً على إدخال المستخدم",
-  "activeForm": "جاري كتابة الـ system prompt الجديد",
-  "status": "completed",
-  "blocks": [],
-  "blockedBy": []
-}
