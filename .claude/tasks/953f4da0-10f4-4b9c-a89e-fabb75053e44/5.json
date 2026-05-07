@@ -1,0 +1,9 @@
+{
+  "id": "5",
+  "subject": "اختبار التوام الرقمي بمحادثة تجريبية",
+  "description": "تنفيذ الـ workflow بسؤال اختبار للتأكد إن الـ system prompt الجديد والذاكرة شغالين صح",
+  "activeForm": "جاري اختبار التوام",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

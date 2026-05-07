@@ -1,0 +1,9 @@
+{
+  "id": "10",
+  "subject": "اختبار الصفحة وتجهيز التعليمات",
+  "description": "اختبار الـ HTML مع n8n webhook + تجهيز خطوات الاستضافة المجانية (Netlify/Vercel/GitHub Pages)",
+  "activeForm": "جاري الاختبار",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

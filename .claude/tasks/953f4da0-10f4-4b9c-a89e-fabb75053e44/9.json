@@ -1,0 +1,9 @@
+{
+  "id": "9",
+  "subject": "بناء صفحة HTML مخصصة بصورة ثابتة + زرار مايك",
+  "description": "صفحة HTML self-contained: صورة دائرية في الأعلى + chat + voice input/output + ربط بـ n8n webhook",
+  "activeForm": "جاري بناء الصفحة المخصصة",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

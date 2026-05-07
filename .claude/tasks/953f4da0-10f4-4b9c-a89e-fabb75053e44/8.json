@@ -1,0 +1,9 @@
+{
+  "id": "8",
+  "subject": "جعل n8n chat trigger public وتخصيص العنوان",
+  "description": "تحديث الـ workflow لتفعيل public mode + title + subtitle + customCss",
+  "activeForm": "جاري تحديث chat trigger",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

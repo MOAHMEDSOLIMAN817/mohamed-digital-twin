@@ -1,0 +1,9 @@
+{
+  "id": "3",
+  "subject": "إضافة Memory Buffer Window للذاكرة",
+  "description": "إضافة Memory node للـ Basic LLM Chain حتى يتذكر المحادثات السابقة في نفس الجلسة",
+  "activeForm": "جاري إضافة الذاكرة",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}
